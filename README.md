@@ -63,7 +63,7 @@ The dataset contains extensive information about candidates and job postings:
 
 ## 🔧 Solution Approach
 
-### Team Sirius Solution Overview
+### Solution Overview
 
 Our approach consists of several key components:
 
